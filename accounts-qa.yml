@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to QA accounts API"
+  message: "Welcome to QA accounts webhook API"
   contactDetails:
     name: "John QA"
     email: "johnqa@gmail.com"
