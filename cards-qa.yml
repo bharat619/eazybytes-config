@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+build:
+  version: 1.1.0
+
+cards:
+  message: "Welcome to QA Cards API"
+  contactDetails:
+    name: "John QA"
+    email: "johnqa@gmail.com"
+  onCallSupport:
+    - (555) 555-666
+    - (555) 523-666

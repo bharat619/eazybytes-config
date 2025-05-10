@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: accounts
+
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to accounts API"
+  contactDetails:
+    name: "John"
+    email: "john@gmail.com"
+  onCallSupport:
+    - (555) 555-123
+    - (555) 523-321
