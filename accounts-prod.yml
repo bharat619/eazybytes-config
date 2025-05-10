@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts PROD API"
   contactDetails:
     name: "JohnProd"
-    email: "john@gmail.com"
+    email: "{cipher}cd2cfcf62730f7309a7750890cbe181e404775bd88f7cb62444ca619e3f3fd05"
   onCallSupport:
     - (555) 555-123
     - (555) 523-321
